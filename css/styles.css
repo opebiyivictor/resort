@@ -29,6 +29,7 @@ ul {
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
     padding-top: 30px;
+    margin-left: 4px;
   }
   .k{
       color: red;
