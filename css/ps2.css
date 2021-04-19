@@ -1,0 +1,120 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+
+
+
+
+
+.form{
+    background-image: url(set.jpg);
+    height: 600px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding-top: 30px;
+    margin-bottom: 70px;
+}
+.x{
+    font-weight: bolder;
+    text-align: center;
+}
+.j{
+    text-align: center;
+}
+
+.bg{
+background-image: url("reb.jpg"); /* The image used */
+height: 80px; /* You must set a specified height */
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+padding-top: 30px;  
+}
+.t{
+    background-image: url("./houston.jpg"); /* The image used */
+height: 400px; /* You must set a specified height */
+width: 400px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+padding-top: 30px; 
+color: white;
+font-family: cursive; 
+}
+.c{
+    background-image: url("./orlando.jpg"); /* The image used */
+height: 400px; /* You must set a specified height */
+width: 400px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+padding-top: 30px; 
+color: white;
+font-family: cursive; 
+}
+.n{
+    background-image: url("./texas.jpg"); /* The image used */
+height: 400px; /* You must set a specified height */
+width: 400px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+padding-top: 30px; 
+color: white;
+font-family: cursive; 
+}
+.p{
+    background-image: url("./canada.jpg"); /* The image used */
+height: 400px; /* You must set a specified height */
+width: 400px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+padding-top: 30px;
+color: white;
+font-family: cursive;  
+}
+.e{
+    background-image: url("./dublin.jpg"); /* The image used */
+height: 400px; /* You must set a specified height */
+width: 400px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+padding-top: 30px;  
+color: white;
+font-family: cursive;
+}
+.u{
+    background-image: url("./japan.jpg"); /* The image used */
+    height: 400px; /* You must set a specified height */
+    width: 400px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding-top: 30px;  
+    color: white;
+    font-family: cursive;
+}
