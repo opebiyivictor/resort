@@ -65,3 +65,31 @@ ul {
     color: blue;
     font-weight: bold;
 }
+.z{
+    color: blue;
+    font-weight: lighter;
+}
+
+.bg-1 {
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+  .bg-2 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+  .bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+
+  .m{
+      color: blue;
+      font-weight: bolder;
+  }
+
+  .me{
+    color: goldenrod;
+    font-weight: bolder;
+    text-align: center;
+    }
