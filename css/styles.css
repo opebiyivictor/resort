@@ -1,0 +1,43 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  .text{
+    background-image: url("reb.jpg"); /* The image used */
+    height: 600px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding-top: 30px;
+  }
+  .k{
+      color: red;
+      font-family: cursive;
+      font-size: 30px;
+  }
+  
+  
+  .t{
+      color: white;
+      font-family: cursive;
+  }
